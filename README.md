@@ -1,2 +1,9 @@
 Heavy-Fight
 ===========
+Heavy Fight (HF) est un jeu de combat multi-joueurs en 2D. L'idée est de faire un SSB completement open source et modifiable. Les personnages seront différent, mais le style de combat sera similaire.
+Le jeu va être réalisé en C accompagné de la librarie SDL 2.0.
+
+Pour le moment, le jeu n'est pas du tout terminé et pret à être joué, je suis encore au début du developpement.
+
+Je suis actuellement le seul contributeur, mais si quelqu'un souhaite me rejoindre dans le projet, je n'ai aucun soucis.
+
