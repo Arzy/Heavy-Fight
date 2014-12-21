@@ -7,3 +7,4 @@ Pour le moment, le jeu n'est pas du tout terminé et pret à être joué, je sui
 
 Je suis actuellement le seul contributeur, mais si quelqu'un souhaite me rejoindre dans le projet, je n'ai aucun soucis.
 
+Le projet CodeBlock a été telechargé depuis cette page : http://jeux.developpez.com/telecharger/detail/id/4036/SDL-2-0-3-plus-SDL2-Image-plus-SDL2-TTF-Template-pour-Code-Blocks
